@@ -1,0 +1,143 @@
+*
+        {
+         margin:0;
+         padding:0;
+        }
+        #A
+        {
+         Border:4px Solid purple;
+         width:100%;
+         height:9vh;
+         background-color:Black;
+         }
+         .B
+         {
+          Padding:15px;
+          text-align:Right;
+         }
+         .B a
+         {
+          Color:white;
+          text-transform:Uppercase;
+          text-decoration:None;
+          padding:20px;
+          text-shadow:1px 1px 0px Purple;
+         }
+         .Main
+           {
+            Border-Style:Solid Double Solid Solid;
+        Border-Color:Purple;
+        Border-Width:4px 15px 4px 4px;
+            width:28%;
+            height:64vh;
+            Float:left;
+            margin-left:5px;
+            overflow-y:scroll;
+            background-color:#fff100;
+           }
+           .X
+           {
+           margin:40px 10px 25px 35px;
+             /* border:2px Solid Purple; */
+             width:75%;
+             height:6vh;
+             Border-radius:15px;
+           }
+           .DM
+           {
+            Border:4px Solid Purple;
+            Width:100%;
+            height:64vh;
+            background-color:#fff100;
+           }
+           .E
+           {
+            /* Border:2px solid purple; */
+            width:59%;
+            height:39%;
+            margin-left:36%;
+            margin-top:25px;
+            Border-radius:20px;
+            /* box-shadow:9px 9px 9px Purple; */
+           }
+           .F
+           {
+            /* Border:2px solid purple; */
+            width:27%;
+            height:20%;
+            margin-left:36%;
+            margin-top:12px;
+            border-radius:15px;
+            /* Box-shadow:10px 10px 10px Black;       */
+           }
+           .G
+           {
+            Border:2px solid Purple;
+            width:47%;
+            height:15vh;
+            margin-left:53%;
+            margin-top:10px;
+            background-color: Black;
+            color:white;
+            Border-radius:12px;
+            Box-shadow:8px 8px 9px white;
+           }
+           .i
+           {
+            width:100%;
+            height:111Px;
+            object:cover;
+            border-radius:12px;
+           }
+           .im
+           {
+            width:100%;
+            height:187px;
+            object:cover;
+            border-radius:17px;
+           }
+           .IM
+           {
+            width:100%;
+            height:187px;
+            object:cover;
+            Border-radius:13px;
+           }
+           .xyz
+           {
+            Border:4px Solid purple;
+            width:100%;
+            height:9vh;
+            Background-color:Black;
+            Color:White;
+            Box-shadow:7px 7px 10px Purple;
+           }
+           p
+           {
+            Text-align:center;
+            Font-weight:Bold;
+            margin-top:16px;
+            text-shadow:1px 1px 0px purple;
+           }
+           .Abc
+           {
+            Font-weigth:Bold;
+            /* Font-family:Jazz LET, fantasy; */
+            text-align:justify;
+            margin-top:0;
+            /* text-transform: Uppercase; */
+            text-decoration: underline;
+            line-height:30px;
+            Text-shadow:1px 1px Purple;
+           }
+           .Ali
+           {
+            aline-items:center;
+            background-color:#ffffea;
+            width:100%;
+            height:50px;
+            margin-top:12px;
+            display:inline-block;
+            margin:0;
+            padding:0;
+           }
